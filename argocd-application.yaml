@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: nath
+  name: nath-backend
   namespace: argo-cd
   labels:
     name: nath
